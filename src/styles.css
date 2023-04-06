@@ -1,0 +1,13 @@
+:root {
+    --primary-color: #fde68a;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  * {
+    background-color: #fde68a;
+  }
+  
